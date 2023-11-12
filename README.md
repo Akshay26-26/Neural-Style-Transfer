@@ -23,6 +23,7 @@ This notebook implements Neural Style Transfer, a technique to apply the artisti
 the style path and content path accordingly.
 
 ## Result
+<img width="774" alt="image" src="https://github.com/Akshay26-26/Neural-Style-Transfer/assets/83123518/11d4f126-ae16-4330-bdab-7ca2075c2387">
 
 
 
