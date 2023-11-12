@@ -14,6 +14,8 @@ This notebook implements Neural Style Transfer, a technique to apply the artisti
 - matplotlib
 - pandas
 
+  ### Setting up and running the repository
+
 - It's recommended to use a virtual environment to manage dependencies. The virtual environment should have python 3.7, the tensorflow version 1.x.x and scipy version 1.2.0.  
 - Clone this repository to your local machine.
 - Run the python file on the virtual environment you created. Import all the important dependencies. 
